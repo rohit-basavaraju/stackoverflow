@@ -1,3 +1,4 @@
+RB: This is an edit for purposes of a Udacity git exercise.
 
 ### Table of Contents
 
